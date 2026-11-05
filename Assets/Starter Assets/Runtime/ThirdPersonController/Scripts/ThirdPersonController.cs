@@ -122,6 +122,15 @@ namespace StarterAssets
             }
         }
 
+        public void SetMoveSpeed(float vitesse)
+        {
+            MoveSpeed = vitesse;
+        }
+
+        public void SetSprintSpeed(float vitesse)
+        {
+            SprintSpeed = vitesse;
+        }
 
         private void Awake()
         {
