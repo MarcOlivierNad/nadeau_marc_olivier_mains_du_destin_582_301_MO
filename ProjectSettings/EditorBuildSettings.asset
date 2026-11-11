@@ -20,5 +20,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/__/Scenes/Game Over.unity
     guid: 5fda46ff3e5177448bfdce38d118510a
+  - enabled: 1
+    path: "Assets/__/Scenes/Game Over Sc\xE8ne 2.unity"
+    guid: 52ded44cf2cd24242a9660da4bf8bacc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
