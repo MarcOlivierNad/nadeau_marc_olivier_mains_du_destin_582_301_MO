@@ -24,10 +24,10 @@ EditorBuildSettings:
     path: Assets/__/Scenes/Niveau 3.unity
     guid: 5524ca96b2b01b848ab1795c258a890b
   - enabled: 1
-    path: "Assets/__/Scenes/Game Over Sc\xE8ne 3.unity"
-    guid: c4102979296f3e54c8db4046f55cd525
-  - enabled: 1
     path: Assets/__/Scenes/Victoire.unity
     guid: 885da303ce15ae345a9567ecf122c7af
+  - enabled: 1
+    path: "Assets/__/Scenes/Game Over Sc\xE8ne 3.unity"
+    guid: c4102979296f3e54c8db4046f55cd525
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
